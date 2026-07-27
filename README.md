@@ -1,2 +1,3 @@
-# qbo-data-extractor-site
-Public pages for Intuit Developer Portal
+# QBO Data Extractor Site
+
+Enable GitHub Pages from Settings > Pages > Deploy from branch (main/root).
